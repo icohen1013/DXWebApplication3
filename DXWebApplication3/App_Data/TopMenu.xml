@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<items>
+  <item Text="首頁" NavigateUrl="#" />
+  <item Text="產品介紹" NavigateUrl="#"  />
+  <item Text="下載功能" NavigateUrl="#"  />
+  <item Text="技術支援" NavigateUrl="#"  />
+</items>
